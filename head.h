@@ -22,6 +22,8 @@
 #include <ofMain.h>
 #include <map>
 
+#define NOTE_BOOK THINKPAD
+
 class ofxHTTPServerResponse{
 public:
 	ofxHTTPServerResponse(){
