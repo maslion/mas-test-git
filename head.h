@@ -26,6 +26,8 @@
 
 #define PHONE MIONE
 
+#define CAR AUDI
+
 class ofxHTTPServerResponse{
 public:
 	ofxHTTPServerResponse(){
