@@ -37,6 +37,7 @@ public:
 	string errStr;
 	string location; // for redirections
 
+	string where;
 	std::map<string,string> requestFields;
 	std::map<string,string> uploadedFiles;
 };
