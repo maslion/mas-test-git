@@ -24,6 +24,8 @@
 
 #define NOTE_BOOK THINKPAD
 
+#define PHONE MIONE
+
 class ofxHTTPServerResponse{
 public:
 	ofxHTTPServerResponse(){
