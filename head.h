@@ -31,6 +31,7 @@ public:
 	string response;
 	int errCode;
         int add_member;
+	long sha1;
 	string errStr;
 	string location; // for redirections
 
